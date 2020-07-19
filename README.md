@@ -3,8 +3,8 @@ Syllabus for Creative Coding
    * Mimi Yin, mimi.yin@nyu.edu
    * [Office Hours Signup](https://itp.nyu.edu/inwiki/Signup/Mimi)
    * Homework Pages
-      * Mon, Wed 10-Noon EST | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-AM)
-      * Mon, Wed 8-10PM EST | [Homework](https://github.com/ITPNYU/ICM-2019-Code/wiki/Homework-PM)
+      * Mon, Wed 10-Noon EST | [Homework](https://github.com/mimiyin/creative-coding-sum-20/wiki/Homework---CC-001)
+      * Mon, Wed 8-10PM EST | [Homework](https://github.com/mimiyin/creative-coding-sum-20/wiki/Homework---CC-002)
 
 ## Syllabus Overview
 * 0 -- [Drawing](weeks/01_intro.md)
