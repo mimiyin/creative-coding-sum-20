@@ -7,12 +7,12 @@ Syllabus for Creative Coding
       * Mon, Wed 8-10PM EST | [Homework](https://github.com/mimiyin/creative-coding-sum-20/wiki/Homework---CC-002)
 
 ## Syllabus Overview
-* 0 -- [Drawing](weeks/01_intro.md)
-* 1 -- [Animation: Variables](weeks/02_animation.md)
-* 2 -- [Interaction: Conditionals](weeks/03_interaction.md)
-* 3 -- [Repetition: Loops](weeks/04_loops.md)
-* 4 -- [Organization: Functions](weeks/05_functions.md)
-* 5 -- [More Repetition: Objects and Arrays](weeks/06_objects.md)
+* 0 -- [Drawing](weeks/00_intro.md)
+* 1 -- [Animation: Variables](weeks/01_animation.md)
+* 2 -- [Interaction: Conditionals](weeks/02_interaction.md)
+* 3 -- [Repetition: Loops](weeks/03_loops.md)
+* 4 -- [Organization: Functions](weeks/04_functions.md)
+* 5 -- [More Repetition: Objects and Arrays](weeks/05_objects.md)
 * 6 -- Final Projects
 
 ## Questions and Discussion
